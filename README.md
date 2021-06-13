@@ -1,2 +1,4 @@
 # 2021codeday
-Project for Virtual CodeDay June 2021
+Arduino timer ᕕ( ᐛ )ᕗ
+Arduino is fun
+No memory is not fun
